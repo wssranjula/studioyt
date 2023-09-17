@@ -11,13 +11,11 @@ export default function Home() {
     <main className="text-black">
       <Container className="mt-24 sm:mt-32">
         <FadeIn className="max-w-3xl">
-          <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-            Make your online presence a reality with us!
+          <h1 className="font-display text-4xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-6xl">
+          The Leading Providers of Cutting-Edge AI Solutions
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            We are a group of developer working at the intersection of design
-            and technology. It is a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+          Techtonic is your end-to-end AI development partner, supporting you through every phase from the initial concept to the final product and beyond.
           </p>
         </FadeIn>
       </Container>

@@ -14,19 +14,20 @@ const Discover = () => {
           what makes their business tick.
         </p>
         <p>
-          Our team of private investigators shadow the company director’s for
-          several weeks while our account managers focus on going through their
-          trash. Our senior security experts then perform social engineering
-          hacks to gain access to their{" "}
-          <strong className="font-semibold text-neutral-950">business</strong>
-          accounts — handing that information over to our forensic accounting
-          team.
+          In the initial phase, our experts immerse themselves in the
+          intricacies of your business. Through comprehensive analysis and a
+          keen understanding of your objectives, we identify the areas where{" "}
+          <strong className="font-semibold text-neutral-950">AI can be a </strong>
+          game-changer, promising to add the most value and foster growth. This
+          step ensures a foundation built on deep insight and tailored
+          strategies, setting the stage for a transformation that is both
+          meaningful and aligned with your vision.
         </p>
-        <p>
+        {/* <p>
           Once the full audit is complete, we report back with a comprehensive
           <strong className="font-semibold text-neutral-950">plan</strong> and,
           more importantly, a budget.
-        </p>
+        </p> */}
       </div>
       <h3 className="mt-12 font-display text-base font-semibold text-neutral-950">
         Included in this phase
@@ -36,8 +37,8 @@ const Discover = () => {
         <TagListItem>Feasibility studies</TagListItem>
         <TagListItem>Blood samples</TagListItem>
         <TagListItem>Employee surveys</TagListItem>
-        <TagListItem>Proofs-of-concept</TagListItem>
-        <TagListItem>Forensic audit</TagListItem>
+        {/* <TagListItem>Proofs-of-concept</TagListItem>
+        <TagListItem>Forensic audit</TagListItem> */}
       </TagList>
     </Section>
   );
