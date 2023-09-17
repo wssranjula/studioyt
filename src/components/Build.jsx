@@ -18,7 +18,7 @@ const Build = () => {
           harmony with your business goals. 
         </p>
         <p>
-        It's here that we bring your vision
+        Its here that we bring your vision
           to life, with solutions designed to elevate every identified area to
           new heights of efficiency and effectiveness.
         </p>
