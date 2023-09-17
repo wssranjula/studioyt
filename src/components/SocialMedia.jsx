@@ -11,21 +11,23 @@ import {
 export const SocialMediaProfiles = [
   {
     title: "Youtube",
-    href: "https://www.youtube.com/@reactjsBD/",
+    href: "https://www.youtube.com/",
     icon: BsYoutube,
   },
-  { title: "GitHub", href: "https://github.com/noorjsdivs/", icon: BsGithub },
+  { title: "GitHub", 
+  href: "https://github.com/wssranjula/", 
+  icon: BsGithub },
   {
     title: "Facebook",
-    href: "https://www.facebook.com/Noorlalu143/",
+    href: "https://web.facebook.com/wssranjula",
     icon: BsFacebook,
   },
   {
-    title: "Instagram",
-    href: "https://www.linkedin.com/in/noor-mohammad-ab2245193/",
+    title: "LinkedIn",
+    href: "https://www.linkedin.com/in/suresh-ranjula-970a42106/",
     icon: BsLinkedin,
   },
-  { title: "Twitter", href: "https://twitter.com", icon: BsTwitter },
+  { title: "Twitter", href: "https://twitter.com/RanjulaShehan", icon: BsTwitter },
 ];
 
 const SocialMedia = ({ className, invert = false }) => {

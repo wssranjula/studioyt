@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata = {
   title: {
     template: "TechTonic",
-    default: "AI Automation Agency",
+    default: "TechTonic ©2023 ",
   },
 };
 

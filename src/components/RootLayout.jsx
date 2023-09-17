@@ -30,8 +30,10 @@ const Header = ({
           <Logo invert={invert}>TechTonic</Logo>
         </Link>
         <div className="flex items-center gap-x-8">
-          <Button href={"/contact"} invert={invert}>
-            Contact us
+          <Button  invert={invert}>
+          <a href={"https://calendly.com/wssranjula1/30min"} target="_blank" rel="noopener noreferrer">
+              Book a Free Call Now
+              </a>
           </Button>
           <button
             ref={toggleRef}
