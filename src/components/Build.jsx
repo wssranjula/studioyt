@@ -13,7 +13,7 @@ const Build = () => {
         </p>
         <p>
           Our team crafts solutions that are not just technologically advanced
-          but also seamlessly integrated into your existing systems, enhancing
+          but also seamlessly integrated into your existing systems enhancing
           functionality and introducing innovative features that are in perfect
           harmony with your business goals. 
         </p>
