@@ -15,7 +15,7 @@ const Services = () => {
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          In the fast-evolving digital landscape, staying ahead is pivotal. Our
+          In the fast-evolving Artifical Intelligence landscape, staying ahead is pivotal. Our
           agency is here to be your trusted partner in that journey, offering a
           suite of services tailored to modern businesses aiming for the
           pinnacle of digital excellence.
