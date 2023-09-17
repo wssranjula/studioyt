@@ -4,9 +4,9 @@ export const navigation = [
   {
     title: "Work",
     links: [
-      { title: "Amazon Clone", href: "/work/amazonclone" },
-      { title: "Bazar e-commerce", href: "/work/bazar" },
-      { title: "Blog 101", href: "/work/blog101" },
+      { title: "ChatBot Developement", href: "/work/amazonclone" },
+      { title: "AI Automation", href: "/work/bazar" },
+      { title: "AI Consulting", href: "/work/blog101" },
       {
         title: (
           <>

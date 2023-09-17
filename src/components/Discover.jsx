@@ -34,8 +34,8 @@ const Discover = () => {
       </h3>
       <TagList className="mt-4">
         <TagListItem>In-depth questionnaires</TagListItem>
-        <TagListItem>Feasibility studies</TagListItem>
-        <TagListItem>Blood samples</TagListItem>
+        <TagListItem>Data Store Analysis</TagListItem>
+        {/* <TagListItem>Blood samples</TagListItem> */}
         <TagListItem>Employee surveys</TagListItem>
         {/* <TagListItem>Proofs-of-concept</TagListItem>
         <TagListItem>Forensic audit</TagListItem> */}

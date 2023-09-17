@@ -15,24 +15,32 @@ const AboutPage = () => {
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-            Studio was started by three friends who noticed that developer
-            studios were charging clients double what an in-house team would
-            cost. Since the beginning, we have been committed to doing things
-            differently by charging triple instead.
+            TechTonic, founded by three friends, is at the forefront of
+            revolutionizing businesses through AI automation..
           </p>
           <p>
-            At Studio, we’re more than just colleagues — we’re a family. This
-            means we pay very little and expect people to work late. We want our
-            employees to bring their whole selves to work. In return, we just
-            ask that they keep themselves there until at least 6:30pm.
+            We specialize in creating customized chatbots trained on your unique
+            data, enhancing efficiency and customer engagement. By automating
+            workflows, we help organizations operate more intelligently and
+            agilely, allowing teams to focus on strategic initiatives rather
+            than manual tasks
           </p>
+          {/* <p>
+            Moreover, our bespoke chatbots are designed to understand and
+            analyze your unique data sets, facilitating intelligent and
+            responsive interactions that enhance customer engagement and
+            satisfaction. At TechTonic, we are not just providing a service; we
+            are forging a pathway to a more agile, intuitive, and intelligent
+            business environment, where technology works hand in hand with human
+            expertise to drive success."
+          </p> */}
         </div>
       </PageIntro>
       <Container className="mt-16">
         <StatList>
-          <StatListItem value="35" label="Underpaid employees" />
-          <StatListItem value="52" label="Placated clients" />
-          <StatListItem value="$25M" label="Invoices billed" />
+          <StatListItem value="35" label="Number of Clients" />
+          <StatListItem value="$52M" label="Increased Revenue" />
+          <StatListItem value="$25M" label="Total Cost saved" />
         </StatList>
       </Container>
       <Cultures />
