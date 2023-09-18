@@ -1,13 +1,12 @@
 import PageIntro from "@/components/PageIntro";
 import React from "react";
-import Build from "@/components/Build";
+
 import ContactSection from "@/components/ContactSection";
-import Deliver from "@/components/Deliver";
-import Discover from "@/components/Discover";
-import Values from "@/components/Values";
+
 import Work from "@/components/Work";
 import Work2 from "@/components/Work2";
 import Work3 from "@/components/work3";
+import Products from "@/components/Products";
 
 const WorkPage = () => {
   return (
@@ -21,8 +20,11 @@ const WorkPage = () => {
           best value to our clients. The primary way we do that is by re-using
           the same five projects we’ve been developing for the past decade.
         </p>
+        
       </PageIntro>
+      
       <div className="mt-24 space-y-24 [counter-reset:section] sm:mt-32 sm:space-y-32 lg:mt-40 lg:space-y-40">
+      <Products />
         {/* Discover */}
         <Work/>
         {/* Deliver */}

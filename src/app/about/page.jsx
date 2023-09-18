@@ -39,8 +39,8 @@ const AboutPage = () => {
       <Container className="mt-16">
         <StatList>
           <StatListItem value="35" label="Number of Clients" />
-          <StatListItem value="$52M" label="Increased Revenue" />
-          <StatListItem value="$25M" label="Total Cost saved" />
+          <StatListItem value="$1M+" label="Increased Revenue" />
+          <StatListItem value="$400K+" label="Total Cost saved" />
         </StatList>
       </Container>
       <Cultures />

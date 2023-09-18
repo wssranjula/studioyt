@@ -23,10 +23,10 @@ export default function Work() {
           tables.
         </p>
         <h3 className="mt-12 font-display text-base font-semibold text-neutral-950">
-          Harmonious Integration
+        Data-Driven Answers
         </h3>
         <p>
-          Data-Driven Answers Our chatbots delve into your data repositories to
+          Our chatbots delve into your data repositories to
           fetch accurate answers, facilitating informed decisions and enhancing
           user satisfaction.
         </p>
