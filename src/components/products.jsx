@@ -5,7 +5,7 @@ import { GridList, GridListItem } from "./GridList";
 import Button from "./Button";
 
 
-export default function products() {
+export default function Products() {
   return (
     <div className="mt-24  rounded-4xl bg-neutral-950 py-24 sm:mt-32 lg:mt-40 lg:py-32">
       <SectionIntro
