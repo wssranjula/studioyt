@@ -6,7 +6,7 @@ import ContactSection from "@/components/ContactSection";
 import Work from "@/components/Work";
 import Work2 from "@/components/Work2";
 import Work3 from "@/components/work3";
-import products from "@/components/Products";
+import Products from "@/components/products";
 
 const WorkPage = () => {
   return (
