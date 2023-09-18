@@ -14,29 +14,12 @@ const Deliver = () => {
           </strong>
           . This allows us to increase the budget a final time before launch.
         </p>
-        {/* <p>
-          Despite largely using pre-built components, most of the{" "}
-          <strong className="font-semibold text-neutral-950">progress</strong>{" "}
-          on each project takes place in the final 24 hours. The development
-          time allocated to each client is actually spent making augmented
-          reality demos that go viral on Twitter.
-        </p> */}
+ 
         <p>
           As we step into the management phase, we offer unwavering support to
           ensure the AI-driven processes function optimally at all times.
         </p>
-        {/* <p>
-          We ensure that the main pages of the site are{" "}
-          <strong className="font-semibold text-neutral-950">
-            fully functional
-          </strong>{" "}
-          at launch — the auxiliary pages will, of course, be lorem ipusm shells
-          which get updated as part of our exorbitant{" "}
-          <strong className="font-semibold text-neutral-950">
-            maintenance
-          </strong>{" "}
-          retainer.
-        </p> */}
+     
         <p>
           We are here to oversee the smooth running of the solutions, providing
           continuous assistance and making necessary adjustments to guarantee

@@ -28,10 +28,10 @@ const Offices = ({ invert = false, ...props }) => {
         </Office>
       </li>
       <li>
-        <Office name="London" invert={invert}>
-          13 long Street
+        <Office name="Sri Lanka" invert={invert}>
+          Colombo 05
           <br />
-          Downtown, Allyway
+          Borella ,Cotta Road
         </Office>
       </li>
     </ul>
