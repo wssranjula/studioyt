@@ -10,7 +10,7 @@ export default function Products() {
     <div className="mt-24  rounded-4xl bg-neutral-950 py-24 sm:mt-32 lg:mt-40 lg:py-32">
       <SectionIntro
         eyebrow="Try our Products"
-        title="Try our Techtonic Buisness KIT for freely "
+        title="Try our SmartGenAI Buisness KIT for freely "
         invert
       >
         <p>

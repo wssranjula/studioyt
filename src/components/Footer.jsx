@@ -63,11 +63,11 @@ const Footer = () => {
         <div className="mb-20 mt-24 flex flex-wrap items-end justify-between gap-x-6 gap-y-4 border-t border-neutral-950/10 pt-12">
           <Link href={"/"} aria-label="Home">
             <Logo className="h-8" fillOnHover>
-              TechTonic
+            SmartGenAI
             </Logo>
           </Link>
           <p className="text-sm text-neutral-700">
-            © TechTonic Agency Inc. {new Date().getFullYear()}
+            © SmartGen AI Solutions Pvt Ltd. {new Date().getFullYear()}
           </p>
         </div>
       </FadeIn>

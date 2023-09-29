@@ -15,7 +15,7 @@ const AboutPage = () => {
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-            TechTonic, founded by three friends, is at the forefront of
+            SmartGenAI, founded by three friends, is at the forefront of
             revolutionizing businesses through AI automation..
           </p>
           <p>

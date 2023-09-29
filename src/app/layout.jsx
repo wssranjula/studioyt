@@ -4,8 +4,8 @@ import { Analytics } from '@vercel/analytics/react';
 
 export const metadata = {
   title: {
-    template: "TechTonic",
-    default: "TechTonic ©2023 ",
+    template: "SmartGenAI",
+    default: "SmartGen AI Solutions Pvt Ltd ©2023 ",
   },
 };
 

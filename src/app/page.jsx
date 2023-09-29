@@ -15,7 +15,7 @@ export default function Home() {
             The Leading Providers of Cutting-Edge AI Solutions
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            Techtonic is your end-to-end AI development partner, supporting you
+          SmartGenAI is your end-to-end AI development partner, supporting you
             through every phase from the initial concept to the final product
             and beyond.
           </p>
@@ -26,7 +26,7 @@ export default function Home() {
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: "Phobia", logo: logoPhobiaDark }}
       >
-        The team at TechTonic went above and beyond with our onboarding, Easy to
+        The team at SmartGenAI went above and beyond with our onboarding, Easy to
         work and they understand exaclty what we want.
       </Testimonials>
       <Services />
